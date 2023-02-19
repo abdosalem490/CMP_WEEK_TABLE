@@ -30,6 +30,13 @@ ${\color{red}SECTION\ 2}$
 |${\color{brown}Thursday}$            |  ${\color{grey}Buisness\ management}$ <br /> ${\color{grey}(LEC)\ (3703)}$    | ${\color{CarnationPink}digital\ communication}$ <br /> ${\color{CarnationPink}(LEC)\ (3703)}$              | ${\color{grey}Buisness\ management}$ <br /> ${\color{grey}(LEC)\ (3703)}$                |   ${\color{BlueGreen}Embedded\ Systems}$ <br /> ${\color{BlueGreen}(LEC)\ (3703)}$            | ---------               |
 ----
 
+
+<h2 align="center">
+${\color{red}Notes}$
+</h2>
+
+1. we have ${\color{BurntOrange}neural\ networks\ tutorial}$ on **WednessDay** for one week and the next week week we will have only ${\color{BurntOrange}neural\ networks\ lab\ discussion}$ on **Tuesday** but  ${\color{red}both\ can't\ happen\ on\ same\ week}$
+---
 <h2 align="center">
 ${\color{red}subject\ codes}$
 </h2>
