@@ -1,58 +1,33 @@
-# CMP_WEEK_TABLE ${\color{green}(in\ Ramadan)}$
+# CMP_WEEK_TABLE
 
-
-<h2 align="center">
-${\color{red}SECTION\ 1}$
+<h2 align="center"> 
+SECTION 1 & 2
 </h2>
 
 
-|${\color{brown}day\ of\ the\ week}$  |${\color{brown} 8:30\ &#8594; \ 9:40}$ | ${\color{brown} 9:45\ &#8594;\ 10:55}$ | ${\color{brown}11:00\ &#8594;\ 12:10}$ | ${\color{brown}12:30\ &#8594;\ 01:40}$ | ${\color{brown}01:45\ &#8594;\ 02:45}$ |
+|${\color{brown}day\ of\ the\ week}$  |${\color{brown} 08:00\ &#8594; \ 09:30}$ | ${\color{brown} 10:00\ &#8594;\ 11:30}$ | ${\color{brown}12:00\ &#8594;\ 01:30}$ | ${\color{brown}02:00\ &#8594;\ 03:30}$ | ${\color{brown}04:00\ &#8594;\ 05:30}$ |
 |:---                 |     :---:         |     :---:          |      :---:        |     :---:           |    :---:          |
-|${\color{brown}Sunday}$              |   ---------   |   ${\color{BlueGreen}Embedded\ Systems}$ <br /> ${\color{BlueGreen}(TUT)\ (3707)}$    |   ${\color{BlueGreen}Embedded\ Systems}$ <br /> ${\color{BlueGreen}(TUT)\ (3707)}$  |  ${\color{SpringGreen}Computer\ graphics}$ <br /> ${\color{SpringGreen}(TUT)\ (3708)}$        |   ---------    |
-|${\color{brown}Monday}$              |   --------- |  ---------  |   ---------            |   ---------            |    ---------            |
-|${\color{brown}Tuesday}$             | ${\color{BurntOrange}neural\ networks}$ <br /> ${\color{BurntOrange}(Lab\ discuss)\ (TA\ room)}$        |  ${\color{GREEN}Cryptography}$ <br /> ${\color{GREEN}(LEC)\ (3703)}$        |    ${\color{GREEN}Cryptography}$ <br /> ${\color{GREEN}(TUT)\ (3703)}$             |      ${\color{Fuchsia}Control\ engineering}$ <br /> ${\color{Fuchsia}(TUT)\ (3703)}$          |      ${\color{CarnationPink}digital\ communication}$ <br /> ${\color{CarnationPink}(TUT)\ (3705)}$   |
-|${\color{brown}Wednesday}$           | ${\color{BurntOrange}neural\ networks}$ <br /> ${\color{BurntOrange}(TUT)\ (3703)}$               |  ${\color{SpringGreen}Computer\ graphics}$ <br /> ${\color{SpringGreen}(LEC)\ (3703)}$  | ${\color{Fuchsia}Control\ engineering}$ <br /> ${\color{Fuchsia}(LEC)\ (3703)}$                 |  ${\color{BurntOrange}neural\ networks}$ <br /> ${\color{BurntOrange}(LEC)\ (3703)}$               |  ---------              |
-|${\color{brown}Thursday}$            |  ---------    | ${\color{CarnationPink}digital\ communication}$ <br /> ${\color{CarnationPink}(LEC)\ (3703)}$              | ${\color{grey}Buisness\ management}$ <br /> ${\color{grey}(LEC)\ (3703)}$                |   ${\color{BlueGreen}Embedded\ Systems}$ <br /> ${\color{BlueGreen}(LEC)\ (3703)}$            | ---------               |
+|${\color{brown}Sunday}$              |   ${\color{BurntOrange}NLP}$ <br /> ${\color{BurntOrange}(TUT)\ (3704)}$   |   ${\color{CarnationPink}Cognitive\ Robotics}$ <br /> ${\color{CarnationPink}(TUT)(LEC)\ (3704)}$    |   ${\color{GREEN}Computer\ Networks}$ <br /> ${\color{GREEN}(LEC)\ (3704)}$  |  ${\color{GREEN}Computer\ Networks}$ <br /> ${\color{GREEN}(TUT)\ (3704)}$       |   ---------    |
+|${\color{brown}Monday}$              |   ${\color{SpringGreen}Advanced\ Database}$ <br /> ${\color{SpringGreen}(TUT)\ (3704)}$ |   ${\color{BlueGreen}Machine\ Intelligence}$ <br /> ${\color{BlueGreen}(LEC)\ (3704)}$  |   ${\color{BlueGreen}Machine\ Intelligence}$ <br /> ${\color{BlueGreen}(TUT)\ (3704)}$            |   ---------            |    ---------            |
+|${\color{brown}Tuesday}$             | ${\color{SpringGreen}Advanced\ Database}$ <br /> ${\color{SpringGreen}(LEC)\ (3704)}$        |  ${\color{grey}Law\ \\&\  &#160	Consultation}$ <br /> ${\color{grey}(LEC)\ (3704)}$        |    ${\color{grey}Law\ \\&\  &#160	Consultation}$ <br /> ${\color{grey}(TUT)\ (3704)}$             |     ---------   |      ---------   |
+|${\color{brown}Wednesday}$           | ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$   |  ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$  | ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$                |  ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$          |  ---------         |
+|${\color{brown}Thursday}$            |  ${\color{BurntOrange}NLP}$ <br /> ${\color{BurntOrange}(LEC)\ (3704)}$   |   ${\color{CarnationPink}Cognitive\ Robotics}$ <br /> ${\color{CarnationPink}(LEC)\ (3704)}$   | ---------          |   ---------      | ---------     |
 
-
-----
-
-<h2 align="center">
-${\color{red}SECTION\ 2}$
-</h2>
-
-
-|${\color{brown}day\ of\ the\ week}$  |${\color{brown} 8:30\ &#8594; \ 9:40}$ | ${\color{brown} 9:45\ &#8594;\ 10:55}$ | ${\color{brown}11:00\ &#8594;\ 12:10}$ | ${\color{brown}12:30\ &#8594;\ 01:40}$ | ${\color{brown}01:45\ &#8594;\ 02:45}$ |
-|:---                 |     :---:         |     :---:          |      :---:        |     :---:           |    :---:          |
-|${\color{brown}Sunday}$              |   ---------   |   ---------   |  ${\color{SpringGreen}Computer\ graphics}$ <br /> ${\color{SpringGreen}(TUT)\ (3708)}$|    ${\color{BlueGreen}Embedded\ Systems}$ <br /> ${\color{BlueGreen}(TUT)\ (3707)}$      |   ${\color{BlueGreen}Embedded\ Systems}$ <br /> ${\color{BlueGreen}(TUT)\ (3707)}$    |
-|${\color{brown}Monday}$              |   --------- |  ---------  |   ---------            |   ---------            |    ---------            |
-|${\color{brown}Tuesday}$             |${\color{GREEN}Cryptography}$ <br /> ${\color{GREEN}(TUT)\ (3703)}$          |  ${\color{GREEN}Cryptography}$ <br /> ${\color{GREEN}(LEC)\ (3703)}$        |  ${\color{BurntOrange}neural\ networks}$ <br /> ${\color{BurntOrange}(Lab\ discuss)\ (TA\ room)}$              |                 ${\color{CarnationPink}digital\ communication}$ <br /> ${\color{CarnationPink}(TUT)\ (3705)}$   | ${\color{Fuchsia}Control\ engineering}$ <br /> ${\color{Fuchsia}(TUT)\ (3704)}$ |
-|${\color{brown}Wednesday}$           | ${\color{BurntOrange}neural\ networks}$ <br /> ${\color{BurntOrange}(TUT)\ (3703)}$               |  ${\color{SpringGreen}Computer\ graphics}$ <br /> ${\color{SpringGreen}(LEC)\ (3703)}$  | ${\color{Fuchsia}Control\ engineering}$ <br /> ${\color{Fuchsia}(LEC)\ (3703)}$                 |  ${\color{BurntOrange}neural\ networks}$ <br /> ${\color{BurntOrange}(LEC)\ (3703)}$               |  ---------              |
-|${\color{brown}Thursday}$            |  ---------    | ${\color{CarnationPink}digital\ communication}$ <br /> ${\color{CarnationPink}(LEC)\ (3703)}$              | ${\color{grey}Buisness\ management}$ <br /> ${\color{grey}(LEC)\ (3703)}$                |   ${\color{BlueGreen}Embedded\ Systems}$ <br /> ${\color{BlueGreen}(LEC)\ (3703)}$            | ---------               |
-----
-
-
-<h2 align="center">
-${\color{red}Notes}$
-</h2>
-
-1. we have ${\color{BurntOrange}neural\ networks\ tutorial}$ on **WednessDay** for one week and the next week week we will have only ${\color{BurntOrange}neural\ networks\ lab\ discussion}$ on **Tuesday** but  ${\color{red}both\ can't\ happen\ on\ same\ week}$
 ---
 <h2 align="center">
-${\color{red}subject\ codes}$
+subject codes
 </h2>
 
-${\color{BlueGreen}CMP 3040\ &#8594;\ Embedded\ Systems}$
+${\color{BlueGreen}CMP 4010\ &#8594;\ Machine\ Intelligence}$
 
-${\color{GREEN}CMP 3050\ &#8594;\ Cryptography}$
+${\color{GREEN}CMP 4020\ &#8594;\ Computer\ Networks}$
 
-${\color{SpringGreen}CMP 3060\ &#8594;\  Computer\ graphics}$
+${\color{SpringGreen}CMP 4030\ &#8594;\ Advanced\ Database}$
 
-${\color{BurntOrange}CMP 30xx\ &#8594;\ neural\ networks(pattern \ recognition)}$
+${\color{BurntOrange}CMP 40xx\ &#8594;\ NLP (Natural\ Language\ Processing)\ (Elective\ 3)}$
 
- ${\color{CarnationPink}ELC 3253\ &#8594;\ digital\ communication}$
+${\color{CarnationPink}CMP 40xx\ &#8594;\ Cognitive\ Robotics\ (Elective\ 4)}$
  
-${\color{Fuchsia}ELC 3252\ &#8594;\ Control\ engineering}$
+${\color{Fuchsia}CMP 4801\ &#8594;\ Graduation\ Project}$
 
-
-${\color{grey}GEN 3252\ &#8594;\ Buisness\ management}$
+${\color{grey}GEN 4251\ &#8594;\ Law\ \\&\  &#160	Consultation}$
