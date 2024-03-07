@@ -5,7 +5,7 @@ SECTION 1 & 2
 </h2>
 
 
-|${\color{brown}day\ of\ the\ week}$  |${\color{brown} 08:00\ &#8594; \ 09:30}$ | ${\color{brown} 10:00\ &#8594;\ 11:30}$ | ${\color{brown}12:00\ &#8594;\ 01:30}$ | ${\color{brown}02:00\ &#8594;\ 03:30}$ | ${\color{brown}04:00\ &#8594;\ 05:30}$ |
+|${\color{brown}day\ of\ the\ week}$  |${\color{brown} 08:00\ &#8594; \ 09:00}$ | ${\color{brown} 09:10\ &#8594;\ 10:10}$ | ${\color{brown}10:20\ &#8594;\ 11:20}$ | ${\color{brown}11:30\ &#8594;\ 12:30}$ | ${\color{brown}13:00\ &#8594;\ 14:00}$ |
 |:---                 |     :---:         |     :---:          |      :---:        |     :---:           |    :---:          |
 |${\color{brown}Sunday}$              |   ${\color{CarnationPink}Parallel\ Computing}$ <br /> ${\color{CarnationPink}(LEC)\ (3704)}$     |   ${\color{BlueGreen}Satellite\ Imaging}$ <br /> ${\color{BlueGreen}(LEC)\ (3704)}$    |   ${\color{CarnationPink}Parallel\ Computing}$ <br /> ${\color{CarnationPink}(TUT)\ (3704)}$  |  ${\color{grey}Wireless\ Networks}$ <br /> ${\color{grey}(TUT)\ (3704)}$        |   ---------    | 
 |${\color{brown}Monday}$              | ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$   |  ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$  | ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$                |  ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$          |  ${\color{Fuchsia}Graduation\ Project}$ <br /> ${\color{Fuchsia}(3704)}$         |
